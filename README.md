@@ -1,4 +1,4 @@
-Android app that help users to track their calorie intake by scanning the food item or selecting item from the predefined product database. It also has the feature to calculate body mass index (BMI), watch motivational videos and pictures to stay fit. 
+* Helps users to track their calorie intake by scanning the barcode of food items, which looksup for it in a product database, called UPC. * Includes features such as calculate body mass index (BMI), play videos and view images to stay movitated to acheive fitness. 
 
 ![image](https://cloud.githubusercontent.com/assets/14239507/17839607/14a77bb8-67a2-11e6-898f-69a3e5228493.png)
 
