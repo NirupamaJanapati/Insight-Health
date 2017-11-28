@@ -1,4 +1,4 @@
-# Insight Health#
+# Insight Health #
 
 * Main motivation of this mobile application is to encourage users to stay healthy and fit. 
 * Helps users to track their calorie intake by scanning the barcode/QRcode of food items, which looksup for it in a product database, called UPC.
